@@ -1,0 +1,43 @@
+_repo: Quelques-aspects-du-vertige-mondial_31918
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2010-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31918'
+  lccn: '17013336'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+tableOfContents: Vertige -- Fragments d'un journal intime -- Lormont (Georges) --
+  Nos matelots -- Mademoiselle Anna,  très humble poupée -- Alsace! -- Une furtive
+  silhouette de S. M. la reine Alexandra d'Angleterre -- Femmes françaises pendant
+  la grande guerre -- Un "secteur tranquille" -- Un petit monde que n'ont pas atteint
+  nos vertiges -- L'adieu de Paris au général Gallieni -- Une demi-douzaine de petites
+  constatations -- Le prince assassiné par Eux (Youzouf-Yzeddin) -- La femme turque
+  -- Simple gentillesse entre voisins -- Les patiences souterraines -- New-York entrevu
+  par un oriental très vieux jeu -- Nos amis d'Amérique -- Il pleut sur l'enfer de
+  la Somme.
+title: Quelques aspects du vertige mondial
+url: http://www.gutenberg.org/ebooks/31918
